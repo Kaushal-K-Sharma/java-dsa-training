@@ -1,10 +1,10 @@
-# Java DSA Training
+// Java DSA Training
 
 This repository contains my Java programming, Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), and project practice programs.
 
-## Topics Covered
+// Topics Covered
 
-### Java Basics
+/// Java Basics
 - Arrays
 - Strings
 - Loops & Conditions
@@ -12,11 +12,11 @@ This repository contains my Java programming, Object-Oriented Programming (OOP),
 - Recursion
 - Competitive Programming
 
-### OOP
+/// OOP
 - Inheritance
 - Polymorphism
 
-### DSA
+/// DSA
 - Arrays
 - ArrayList
 - Linked List
@@ -25,7 +25,7 @@ This repository contains my Java programming, Object-Oriented Programming (OOP),
 - Prefix Sum
 - Streams API
 
-### Projects
+/// Projects
 - Bank Management System
 
 Author: Kaushal Sharma
